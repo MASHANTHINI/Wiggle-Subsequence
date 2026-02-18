@@ -1,4 +1,4 @@
-## 🧠 Intuition
+##  Intuition
 
 This problem follows **Dynamic Programming (Form 2: Ending at index i)**.
 
@@ -14,7 +14,7 @@ So for each index, we calculate:
 
 ---
 
-## 🚀 Approach
+## Approach
 
 We define a recursive function:
 
@@ -61,7 +61,7 @@ Every element alone is a valid wiggle subsequence of length `1`.
 
 ---
 
-## ⏱ Complexity Analysis
+##  Complexity Analysis
 
 ### Time Complexity
 
